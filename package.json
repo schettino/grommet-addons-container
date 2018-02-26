@@ -58,6 +58,10 @@
     "lottie-web": "^5.1.7",
     "prettier": "^1.10.2",
     "react": "^16.2.0",
+    "rollup": "^0.56.3",
+    "rollup-plugin-buble": "^0.19.2",
+    "rollup-plugin-eslint": "^4.0.0",
+    "rollup-plugin-json": "^2.3.0",
     "styled-components": "^3.1.6"
   },
   "peerDependencies": {
