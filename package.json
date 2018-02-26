@@ -8,7 +8,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "prettier": "prettier --write \"src/**/*.js\"",
-    "precommit": "yarn run lint-staged"
+    "precommit": "yarn run lint-staged",
+    "build": "yarn run rollup -c"
   },
   "lint-staged": {
     "*.js": [
