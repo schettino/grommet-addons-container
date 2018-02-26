@@ -7,5 +7,16 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Matheus Schettino",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "grommet": "2.0.0-alpha.9",
+    "lottie-web": "^5.1.7",
+    "react": "^16.2.0",
+    "styled-components": "^3.1.6"
+  },
+  "peerDependencies": {
+    "grommet": "2.0.0-alpha.9",
+    "lottie-web": "^5.1.7",
+    "react": "^16.2.0"
+  }
 }
