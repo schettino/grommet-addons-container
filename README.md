@@ -2,6 +2,8 @@
 
 > ⚠️ This version is based on grommet/2.0.0-alpha.9.
 
+![Demo](https://media.giphy.com/media/l1m4XhWbtfkpri8myf/giphy.gif)
+
 There's no behavior or styles changes on the grommet components.
 
 ## Components
