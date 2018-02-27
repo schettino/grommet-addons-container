@@ -1,7 +1,7 @@
 import React, {Component} from 'react';
 import logo from './logo.svg';
 import {Grommet, Box, Button, Heading} from 'grommet';
-import {Container} from 'grommet-busy-overlay';
+import {Container} from 'grommet-addons-container';
 import './App.css';
 
 class App extends Component {

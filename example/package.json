@@ -4,7 +4,9 @@
   "private": true,
   "dependencies": {
     "grommet": "2.0.0-alpha.9",
+    "grommet-addons-container": "^1.0.0-alpha.9",
     "lottie-web": "^5.1.7",
+    "prop-types": "^15.6.1",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
     "react-scripts": "1.1.1",
