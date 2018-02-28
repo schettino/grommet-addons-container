@@ -35,3 +35,7 @@ It's a lottie-web wrapper based on the Box component, which you can extend or ov
 
 
 > At this time, a default animation is buddled up within this library. The main reason is to showcase how far we can go with a solid component base. Grommet let you focus on the essential. If you think this my be a great addon in the feature, PR's are welcomed.
+
+
+> Animation by Nattu Adnan
+> grabbed on lottiefiles.com
